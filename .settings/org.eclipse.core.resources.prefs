@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebContent/admin/_menu.jsp=UTF-8
+encoding//WebContent/admin/qlydanhmuc.jsp=UTF-8
+encoding//WebContent/admin/qlydondathang.jsp=UTF-8
+encoding//WebContent/admin/qlysanpham.jsp=UTF-8
+encoding//WebContent/admin/qlytaikhoan.jsp=UTF-8
+encoding//WebContent/dangnhap.jsp=UTF-8
+encoding//WebContent/gioithieu.jsp=UTF-8
+encoding//WebContent/index.jsp=UTF-8
+encoding//src/controller/QLdanhmuc.java=UTF-8
+encoding//src/dao/DanhmucDAO.java=UTF-8
